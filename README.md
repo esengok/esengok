@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently learning **data analysis**
 
-- 🌱 I’m currently learning **SQL, R, Tableau, Power BI**
+- 🌱 I’m working with **SQL, R, Tableau, Power BI**
 
 - 👯 I’m looking to collaborate on **data analysis projects**
 
