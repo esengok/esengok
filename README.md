@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **https://www.linkedin.com/in/esen-g%C3%B6k-3530131aa/**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
